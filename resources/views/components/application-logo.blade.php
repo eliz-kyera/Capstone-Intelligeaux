@@ -1,0 +1,1 @@
+<img class="w-30 h-8" src="{{ asset('ashesi-logo.png') }}" alt="">
